@@ -2,8 +2,8 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hello!\n")
+        Console.WriteLine("Hello!")
 
-        Console.WriteLine("2023/10/11")
+        Console.WriteLine("Hello New branch")
     End Sub
 End Module
