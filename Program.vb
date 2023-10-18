@@ -4,6 +4,7 @@ Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello!")
 
-        Console.WriteLine("Hello New branch")
+        Console.WriteLine("PullRequest branch changed")
+
     End Sub
 End Module
