@@ -5,5 +5,7 @@ Module Program
         Console.WriteLine("Hello!")
 
         Console.WriteLine("Hello New branch")
+
+         Console.WriteLine("Clone changed")
     End Sub
 End Module
